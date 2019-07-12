@@ -1,6 +1,6 @@
 # Lava Quest
 
-A simple 2D web game build with pure JavaScript inspired in Thomas Palef's Dark Blue.actor
+A simple 2D web game build with pure JavaScript inspired in Thomas Palef's Dark Blue
 
 # Instructions
 
