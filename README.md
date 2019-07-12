@@ -24,5 +24,7 @@ You only have three lives to complete the Game
 ### Enemies
 Lava and Monsters are your enemies. You can kill monsters by jumping on their heads
 
+#Have fun!
+
 
 
